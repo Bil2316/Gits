@@ -6,7 +6,7 @@
 - Remote
 
 # Commands
-- git init
+- git init 
 - git status
 - git add / git reset
 - git commmit -m "..."
@@ -19,4 +19,8 @@
 - git merge
 - git remote add/set-url {name_alias/origin} {link}
 - git push {link} {branch_name}
+- git push -u {link} {branch_name}
 - git clone {link}
+- git fetch origin
+- git checkout -b {branch_name} origin/{branch_name}
+- git pull
