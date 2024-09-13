@@ -19,3 +19,4 @@
 - git merge
 - git remote add/set-url {name_alias/origin} {link}
 - git push {link} {branch_name}
+- git clone {link}
